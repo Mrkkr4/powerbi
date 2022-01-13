@@ -7,6 +7,7 @@
 - It is also known as `Power Query`
 # Download all materials and data
 - https://github.com/rritec/powerbi/archive/refs/heads/master.zip
+- Extract Zip file
 
 
 ## Import scott data from excel
